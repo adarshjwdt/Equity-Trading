@@ -1,0 +1,7 @@
+django
+gspread
+oauth2client
+smartapi-python  # Angel One
+kiteconnect      # Zerodha
+pyotp            # For Angel TOTP
+pandas           # To simplify matrix manipulation
